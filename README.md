@@ -21,12 +21,12 @@ LASSO exhibited a comparative ability to explain data variability.
 
 - Findings and Considerations:
 
-*** MIQP Advantages:
+1. MIQP Advantages:
 
 Enhanced accuracy in test sets, although computationally demanding.
 Robustness in predicting outcomes with the optimal hyperparameter k.
 
-*** LASSO Advantages:
+2. LASSO Advantages:
 
 Efficiency in computational resources and quick model updates.
 Ease of implementation, especially for individuals with limited coding experience.
